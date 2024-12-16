@@ -1,0 +1,7 @@
+C:\Users\Данил\source\repos\TabulatingTranscendentalFunctions\obj\Debug\TabulatingTranscendentalFunctions.csproj.AssemblyReference.cache
+C:\Users\Данил\source\repos\TabulatingTranscendentalFunctions\obj\Debug\TabulatingTranscendentalFunctions.csproj.CoreCompileInputs.cache
+C:\Users\Данил\source\repos\TabulatingTranscendentalFunctions\bin\Debug\TabulatingTranscendentalFunctions.exe.config
+C:\Users\Данил\source\repos\TabulatingTranscendentalFunctions\bin\Debug\TabulatingTranscendentalFunctions.exe
+C:\Users\Данил\source\repos\TabulatingTranscendentalFunctions\bin\Debug\TabulatingTranscendentalFunctions.pdb
+C:\Users\Данил\source\repos\TabulatingTranscendentalFunctions\obj\Debug\TabulatingTranscendentalFunctions.exe
+C:\Users\Данил\source\repos\TabulatingTranscendentalFunctions\obj\Debug\TabulatingTranscendentalFunctions.pdb
